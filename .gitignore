@@ -59,3 +59,9 @@ sysinfo.txt
 crashlytics-build.properties
 
 .idea
+.vscode/extensions.json
+.vscode/launch.json
+.vscode/settings.json
+UserSettings/EditorUserSettings.asset
+UserSettings/Search.settings
+UserSettings/Layouts/default-2022.dwlt
